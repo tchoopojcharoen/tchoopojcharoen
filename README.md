@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, My name is Pi Thanacha Choopojcharoen</h1>
 
-- 🎓 I'm currently pursuing Ph.D. in Mechanical & Mecatronics Engineering at University of Waterloo. 
-- 🔶 Prior to this, I taught robotics engineering at the Institute of Field Robotics (FIBO), KMUTT Thailand for 6 years.
-- 📖 10+ year experience in teaching Robotics with MSc/BSc in Robotics Engineering from WPI.
-- 🔭 I’m currently working on Open-source Motion Capture System
-- 💬 Ask me about Robotics, Kinematics, Dynamics, Estimation, Control
+- 🎓 I'm currently pursuing **Ph.D.** in Mechanical & Mecatronics Engineering at **University of Waterloo**. 
+- 🔶 Prior to this, I taught robotics engineering at the Institute of Field Robotics (**FIBO**), KMUTT Thailand for **6 years**.
+- 📖 **10+ year experience** in teaching Robotics with MSc/BSc in Robotics Engineering from WPI.
+- 🔭 I’m currently working on **Open-source Motion Capture System** (still private)
+- 💬 Ask me about Robotics Kinematics & Dynamics, Orientation Kinematics, Robot Modelling, ROS2, State Estimation, Control
 - 📝 Currently Learning: Distributed Optimization, Computer Vision, Agentic AI
 - 💡 Interested in: Physics Engine, Model-based System Enigneering, Open-source Robotics Tools
 - 💼 For hire: lecturing, white paper drafting, simulation, motion data synethesis
