@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pi Thanacha Choopojcharoen</h1>
-<h3 align="center">An assiduous, expository, and vehement individual who loves robotics, education, music, and cats.</h3>
 
 - 🔭 I’m currently working on **Open-source Motion Capture System**
 - I'm currently pursuing Ph.D. in Mechanical & Mecatronics Engineering at University of Waterloo 
