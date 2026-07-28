@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pi Thanacha Choopojcharoen</h1>
 <h3 align="center">PhD Researcher & Robotics Educator</h3>
-<p align="center">📍 Waterloo, Canada · 🎓 University of Waterloo</p>
+<p align="center">📍 Ontario, Canada · 🎓 University of Waterloo</p>
 
 <p align="center">
   <a href="mailto:thanachachoo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
