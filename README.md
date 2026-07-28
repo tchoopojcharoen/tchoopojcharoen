@@ -82,6 +82,7 @@ I work across **robotics theory, software, and education** — from kinematic mo
 ![VICON](https://img.shields.io/badge/VICON%20Mocap-4A4A4A?style=flat)
 ![Crazyflie](https://img.shields.io/badge/Crazyflie-4A4A4A?style=flat)
 ![Pixhawk](https://img.shields.io/badge/Pixhawk-4A4A4A?style=flat)
+![UniversalRobot](https://img.shields.io/badge/UniversalRobot-4A4A4A?style=flat)
 
 ---
 
