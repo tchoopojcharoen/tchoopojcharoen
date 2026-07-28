@@ -31,10 +31,10 @@
 I work across **robotics theory, software, and education** — from kinematic modelling to teaching the next generation of robotics engineers. Below is what I've taught, built, or am currently studying in depth.
 
 **🦾 Kinematics & Dynamics**
-> Compact Inverse Kinematics · Lie Groups · Robot Modelling with URDF & XACRO · Simscape Rigid Body · Automated Dynamic Regressor Construction
+> Compact Inverse Kinematics · Lie Groups · Automated Dynamic Regressor Construction · Robot Modelling with URDF & XACRO · Simscape Rigid Body Simulation · Gazebo
 
 **🧭 Planning, Estimation & Control**
-> Time-Optimal Trajectory Planning · Invariant Kalman Filter · LQR · MPC · Adaptive Control
+> Time-Optimal Trajectory Planning · Invariant Kalman Filter · LQR · MPC · Adaptive Control, Offline and Online Closed-loop Simulation
 
 **🤖 ROS2 & Robotics Software**
 > Package Management · Nodes, Topics, Services, Actions · TF2 · Launch System · Lifecycle Nodes · Multi-Robot & Distributed Systems
