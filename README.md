@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pi Thanacha Choopojcharoen</h1>
 <h3 align="center">PhD Researcher & Robotics Educator</h3>
-<p align="center">📍 Ontario, Canada · 🎓 University of Waterloo</p>
+<p align="center">📍 Waterloo, Canada · 🎓 University of Waterloo</p>
 
 <p align="center">
   <a href="mailto:thanachachoo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -10,6 +10,15 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Lecturing%20%C2%B7%20Consulting%20%C2%B7%20Research%20Collaboration-2ea44f?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="rviz_demo.gif" height="200" alt="RViz demo"/>
+  <img src="demo.gif" height="200" alt="Demo"/>
+  <img src="final_experiment.gif" height="200" alt="Final experiment"/>
+  <img src="project_demo_1.gif" height="200" alt="Project demo"/>
+  <img src="project_demo_2.gif" height="200" alt="Project demo"/>
+  <img src="live_demo.gif" height="200" alt="Live demo"/>
 </p>
 
 ---
@@ -31,10 +40,10 @@
 I work across **robotics theory, software, and education** — from kinematic modelling to teaching the next generation of robotics engineers. Below is what I've taught, built, or am currently studying in depth.
 
 **🦾 Kinematics & Dynamics**
-> Compact Inverse Kinematics · Lie Group Optimization · Automated Dynamic Regressor Construction · Robot Modelling with URDF & XACRO · Simscape Rigid Body Simulation · Gazebo Simulation
+> Compact Inverse Kinematics · Lie Groups · Robot Modelling with URDF & XACRO · Simscape Rigid Body · Automated Dynamic Regressor Construction
 
 **🧭 Planning, Estimation & Control**
-> Time-Optimal Trajectory Planning · Invariant Kalman Filter · LQR · MPC · Adaptive Control, Offline and Online Closed-loop Simulation
+> Time-Optimal Trajectory Planning · Invariant Kalman Filter · LQR · MPC · Adaptive Control
 
 **🤖 ROS2 & Robotics Software**
 > Package Management · Nodes, Topics, Services, Actions · TF2 · Launch System · Lifecycle Nodes · Multi-Robot & Distributed Systems
@@ -82,7 +91,6 @@ I work across **robotics theory, software, and education** — from kinematic mo
 ![VICON](https://img.shields.io/badge/VICON%20Mocap-4A4A4A?style=flat)
 ![Crazyflie](https://img.shields.io/badge/Crazyflie-4A4A4A?style=flat)
 ![Pixhawk](https://img.shields.io/badge/Pixhawk-4A4A4A?style=flat)
-![UniversalRobot](https://img.shields.io/badge/UniversalRobot-4A4A4A?style=flat)
 
 ---
 
