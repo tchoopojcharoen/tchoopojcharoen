@@ -102,9 +102,6 @@ I work across **robotics theory, software, and education** — from kinematic mo
     src="./profile/stats.svg"
     alt="GitHub statistics"
   />
-</p>
-
-<p align="center">
   <img
     height="160"
     src="./profile/top-languages.svg"
