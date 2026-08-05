@@ -97,6 +97,20 @@ I work across **robotics theory, software, and education** — from kinematic mo
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tchoopojcharoen&count_private=true&show_icons=true&theme=buefy&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchoopojcharoen&hide=PLpgSQL,javascript,html,css,kotlin,ruby,cmake&layout=compact&theme=buefy&hide_border=true"/>
+  <a href="https://github.com/tchoopojcharoen">
+    <img
+      height="160"
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=tchoopojcharoen&amp;show_icons=true&amp;theme=buefy&amp;hide_border=true"
+      alt="GitHub statistics"
+    />
+  </a>
+  <a href="https://github.com/tchoopojcharoen">
+    <img
+      height="160"
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=tchoopojcharoen&amp;hide=PLpgSQL,JavaScript,HTML,CSS,Kotlin,Ruby,CMake&amp;layout=compact&amp;theme=buefy&amp;hide_border=true&amp;card_width=320"
+      alt="Most-used languages"
+    />
+  </a>
 </p>
